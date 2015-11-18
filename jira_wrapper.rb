@@ -1,4 +1,4 @@
-class Jira
+class JiraWrapper
 
   require 'json'
 
